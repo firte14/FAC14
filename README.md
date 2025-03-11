@@ -10,10 +10,10 @@
 
 ## 2. Development Justification
 ### 2.1 Justification of Design Decisions
-### 2.2 OPTIMISATION
+### 2.2 Optimisation
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 ### 2.4 Evaluation of Design
-### 2.5 REVIEW OF FINAL PRODUCT
+### 2.5 Review of Final Product
 
 ## 3. Testing Documentation
 ### 3.1 Test Plans
@@ -22,6 +22,6 @@
 ### 3.4 USABILITY TESTING FEEDBACK
 
 ## 4. Evaluation
-### FINAL EVALUATION
-### POTENTIAL FUTURE IMPROVEMENTS
-### FEEDBACK RESPONSES
+### 4.1 FINAL EVALUATION
+### 4.2 POTENTIAL FUTURE IMPROVEMENTS
+### 4.3 FEEDBACK RESPONSES
