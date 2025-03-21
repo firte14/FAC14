@@ -5,7 +5,10 @@
 ## 1. Design Documentation
 ### 1.1 WIREFRAME
 ### 1.2 USER FLOW DIAGRAM
-### 1.3 REQUIREMENT ANALYSIS
+### 1.3 Client REQUIREMENT ANALYSIS
+Hot Beans want their website to attract skilled prospective web developers who have finished their training courses and qualifications that are now looking for jobs as web developers, to recruit them. The main goal is to create a compelling careers section that will inform the prospective candidates about the company in general, showcase the available job opportunities and an online application form that is simple to complete. The key requirements and how they will be addressed include:
+1. Promotion of the company to prospective web developers: To address this the creation of a well structured "About Hot Beans" web section that will the highlight the mission statement of the company as well as its values, work culture and all round reputation in the industry. This section will build the company's credibility and excitement for potential candidates.
+
 ### 1.4 COLOUR SCHEME AND TYPOGRAPHY
 
 ## 2. Development Justification
