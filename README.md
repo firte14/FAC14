@@ -13,6 +13,7 @@ Hot Beans want their website to attract skilled prospective web developers who h
 4. Profiles showcasing existing trainee web developers: A web section for "Meet Our Team" will be implemented, the section will feature profiles of current web developers who are currently in training at Hot Beans Web. This will provide social proof and motivate potential applicants by showing the real career growth that is possible within the company
 5. Links to web development courses: A "Web Development Resources"section that will list links to high-quality online learning platforms like FreeCodeCamp, Udemy, etc. The resources will help aspiring developers continue learning and enhance their qualifications.
 6. Furthermore, making use of modern UI/UX design principles, including a clean and responsive layout, consistent typography and an attractive colour scheme will be implemented to make sure the websites design is optimised for readability, accessibility, and ease of navigation.
+ 
    By addressing these requirements it ensures that the Hot Beans Web Careers section will offer a seamless and informative experience for the potential candidates while helping the company to attract top tier talent.
 
 
