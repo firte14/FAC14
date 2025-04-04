@@ -1,11 +1,12 @@
 # UNIT 15 Web Dev
 ## Favour Ajiduah
-Low fidelity Wireframe
-![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
 
 # Content
 ## 1. Design Documentation
 ### 1.1 WIREFRAME
+Low fidelity Wireframe
+![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
+
 ### 1.2 USER FLOW DIAGRAM
 ### 1.3 Client REQUIREMENT ANALYSIS
 Hot Beans want their website to attract skilled prospective web developers who have finished their training courses and qualifications that are now looking for jobs as web developers, to recruit them. The main goal is to create a compelling careers section that will inform the prospective candidates about the company in general, showcase the available job opportunities and an online application form that is simple to complete. The key requirements and how they will be addressed include:
