@@ -1,5 +1,7 @@
 # UNIT 15 Web Dev
 ## Favour Ajiduah
+Low fidelity Wireframe
+![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
 
 # Content
 ## 1. Design Documentation
@@ -14,7 +16,7 @@ Hot Beans want their website to attract skilled prospective web developers who h
 5. Links to web development courses: A "Web Development Resources"section that will list links to high-quality online learning platforms like FreeCodeCamp, Udemy, etc. The resources will help aspiring developers continue learning and enhance their qualifications.
 6. Furthermore, making use of modern UI/UX design principles, including a clean and responsive layout, consistent typography and an attractive colour scheme will be implemented to make sure the websites design is optimised for readability, accessibility, and ease of navigation.
  
-   By addressing these requirements it ensures that the Hot Beans Web Careers section will offer a seamless and informative experience for the potential candidates while helping the company to attract top tier talent.
+By addressing these requirements it ensures that the Hot Beans Web Careers section will offer a seamless and informative experience for the potential candidates while helping the company to attract top tier talent.
 
 
 ### 1.4 COLOUR SCHEME AND TYPOGRAPHY
@@ -28,6 +30,7 @@ Hot Beans want their website to attract skilled prospective web developers who h
 
 ## 3. Testing Documentation
 ### 3.1 Test Plans
+The test plan will include the strategy that'll be used for testing the Hot Beans careers website to ensure that it meets the functional, performance and usability. The website is built with the use of HTML, CSS, Boostrap for the styling and structure with JavaScript. Various methods will be implemented to fully test the webs
 ### 3.2 Test Cases and Results
 ### 3.3 BUG TRACKING LOG
 ### 3.4 USABILITY TESTING FEEDBACK
