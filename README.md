@@ -44,12 +44,18 @@ Performance Testing: Evaluating the effectiveness of the website's load times an
 User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability
 
 ### 3.2 Test Cases and Results
-| Column 1 | Column 2 | Column 3 | Column 3 | Column 3 |
-|----------|----------|----------|----------|----------|
-| Data 1   | Data 2   |
-| Data 2   | Data 2   |
-
-
+| Test Case ID | Scenario | Description | Expected Outcome | Actual Outcome | Comments |
+|----------|----------|----------|----------|----------|----------|
+| TC01   | Home page loads correctly   | Open the homepage multiple times on different browsers   | Data 2   |
+| TC02   | The Job search functions properly   | Enter a keyword in the search bar, check result
+| TC03   | Careers on the header takes user to the Careers Page   | Click the Careers on the header
+| TC04   | About on the header takes user to the About Us Page   | Click About on the header
+| TC05   | Check 'Apply Now' button functionality   | Click 'Apply Now'
+| TC06   | Test Application form Validation   | Submit the form with missing fields
+| TC07   | Test Navigation bar links   | Click eack link within the navbar
+| TC08   | Test website performance   | Use performance testing aids like Lighthouse to check speed scores
+| TC09   | Ensure website responsiveness   | Resize the browser to mobile view
+| TC010   |    |
 
 ### 3.3 BUG TRACKING LOG
 ### 3.4 USABILITY TESTING FEEDBACK
