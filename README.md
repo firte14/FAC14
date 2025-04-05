@@ -31,8 +31,25 @@ By addressing these requirements it ensures that the Hot Beans Web Careers secti
 
 ## 3. Testing Documentation
 ### 3.1 Test Plans
-The test plan will include the strategy that'll be used for testing the Hot Beans careers website to ensure that it meets the functional, performance and usability. The website is built with the use of HTML, CSS, Boostrap for the styling and structure with JavaScript. Various methods will be implemented to fully test the webs
+The test plan will include the strategy that'll be used for testing the Hot Beans careers website to ensure that it meets the functional, performance and usability requirements. The website is built with the use of HTML, CSS, and Bootstrap for the styling and structure with JavaScript. Various testing methods will be implemented to thoroughly test the website, these will include User Acceptance Testing(UAT), Manual testing and Automated testing procedures
+
+The Testing Approach
+The testing will be conducted in different stages
+Unit Testing: This will involve testing the individual components (e.g. navigation, buttons, forms)
+separately
+Integration Testing: This will be implemented to validate the interaction between components
+Functional Testing: To ensure all functionalities work as expected(e.g, Job search, Job submission)
+UI/UX Testing: Checking the Bootstrap-based design for its responsiveness and consistency to actions 
+Performance Testing: Evaluating the effectiveness of the website's load times and responsiveness
+User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability
+
 ### 3.2 Test Cases and Results
+| Column 1 | Column 2 |
+|----------|----------|
+| Data 1   | Data 2   |
+
+
+
 ### 3.3 BUG TRACKING LOG
 ### 3.4 USABILITY TESTING FEEDBACK
 
