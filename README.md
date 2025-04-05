@@ -44,9 +44,10 @@ Performance Testing: Evaluating the effectiveness of the website's load times an
 User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability
 
 ### 3.2 Test Cases and Results
-| Column 1 | Column 2 |
-|----------|----------|
+| Column 1 | Column 2 | Column 3 | Column 3 | Column 3 |
+|----------|----------|----------|----------|----------|
 | Data 1   | Data 2   |
+| Data 2   | Data 2   |
 
 
 
