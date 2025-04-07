@@ -58,6 +58,10 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 | TC010   |    |
 
 ### 3.3 BUG TRACKING LOG
+|Date | Test ID| Tester | Outcome | Notes |
+|-------- |--------- |-------- |--------|-------|
+|02/04/2025| OO1 | Favour A.C|  |  |
+|02/04/2025| 002 | Favour A.C|||
 ### 3.4 USABILITY TESTING FEEDBACK
 
 ## 4. Evaluation
