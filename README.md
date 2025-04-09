@@ -47,7 +47,7 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 | Test Case ID | Scenario | Description | Expected Outcome | Actual Outcome | Comments |
 |----------|----------|----------|----------|----------|----------|
 | TC01   | Home page loads correctly   | Open the homepage multiple times on different browsers   | Data 2   |
-| TC02   | The Job search functions properly   | Enter a keyword in the search bar, check result
+| TC02   | The Job search functions properly  | Enter a keyword in the search bar, check result
 | TC03   | Careers on the header takes user to the Careers Page   | Click the Careers on the header
 | TC04   | About on the header takes user to the About Us Page   | Click About on the header
 | TC05   | Check 'Apply Now' button functionality   | Click 'Apply Now'
@@ -55,7 +55,7 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 | TC07   | Test Navigation bar links   | Click eack link within the navbar
 | TC08   | Test website performance   | Use performance testing aids like Lighthouse to check speed scores
 | TC09   | Ensure website responsiveness   | Resize the browser to mobile view
-| TC010   |    |
+| TC010   |  Validation message appears after form submission  |
 
 ### 3.3 BUG TRACKING LOG
 |Date | Test ID| Tester | Outcome | Notes |
