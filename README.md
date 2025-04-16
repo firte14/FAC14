@@ -25,6 +25,16 @@ By addressing these requirements it ensures that the Hot Beans Web Careers secti
 ## 2. Development Justification
 ### 2.1 Justification of Design Decisions
 ### 2.2 Optimisation
+
+
+Footer:
+.footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white; /* Changed to white for better visibility */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 ### 2.4 Evaluation of Design
 ### 2.5 Review of Final Product
