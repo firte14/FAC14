@@ -24,18 +24,24 @@ By addressing these requirements it ensures that the Hot Beans Web Careers secti
 
 ## 2. Development Justification
 ### 2.1 Justification of Design Decisions
+The current design for the Hot Beans Web website has different foundational elements in place that were put in the direction of meeting the clients requirements
+
+Colour Theory
+The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
 ### 2.2 Optimisation
 
 
-Footer:
-.footer a {
-    margin: 0 10px;
-    text-decoration: none;
-    color: white; /* Changed to white for better visibility */
-    transition: color 0.3s ease; /* Smooth transition for hover effect */
-}
+Structural Improvements
+Navigation:
+Implementing a mega menu for the careers section
+The sticky header for easy access
+**Adding a breadcrumb navigation for multi-level pages**
+An active state indicator
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
+Time Management
+I implemented a 5-week plan to fully create the website to meet the
+
 ### 2.4 Evaluation of Design
 ### 2.5 Review of Final Product
 
