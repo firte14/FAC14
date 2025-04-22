@@ -28,6 +28,16 @@ The current design for the Hot Beans Web website has different foundational elem
 
 Colour Theory
 The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
+
+
+The Golden Ratio Application
+The creation of the major layout divisions where done to follow the golden ratio standard:
+.The height to hero sections ratio(1.1.618)
+.The cards dimensions (e.g 300px * 485px)
+.Typography scale (16px, 26px, 42px, 68px)
+.The image to text proportions in the team profiles
+This was done to create natural visual harmony across the website which makes the content more appealing and easier to process
+
 ### 2.2 Optimisation
 
 
@@ -40,7 +50,17 @@ An active state indicator
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 Time Management
-I implemented a 5-week plan to fully create the website to meet the
+I implemented a 8-week agile plan to fully create the website to meet the requirements:
+Week 1-2: General Research, Design Documentation and Wireframing
+Week 3-4: Development of the Website implementing the visual designs
+Week 5: Interactive elements development
+Week 6-7:Testing and optimisation
+Week 8: Evaluation of the designs with the final product review
+
+Time was also allocated for any unexpected issues or hindrance that might occur during the development of the project
+
+
+
 
 ### 2.4 Evaluation of Design
 ### 2.5 Review of Final Product
@@ -79,6 +99,9 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 |-------- |--------- |-------- |--------|-------|
 |02/04/2025| OO1 | Favour A.C|  |  |
 |02/04/2025| 002 | Favour A.C|||
+|03/04/2025| 003 | Favour A.C|
+|03/04/2025| OO4 | Favour A.C|  |  |
+|03/04/2025| OO5 | Favour A.C|  |  |
 ### 3.4 USABILITY TESTING FEEDBACK
 
 ## 4. Evaluation
