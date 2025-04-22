@@ -82,16 +82,16 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 ### 3.2 Test Cases and Results
 | Test Case ID | Scenario | Description | Expected Outcome | Actual Outcome | Comments |
 |----------|----------|----------|----------|----------|----------|
-| TC01   | Home page loads correctly   | Open the homepage multiple times on different browsers   | Homepage loads without lags | // | 
+| TC01   | Home page loads correctly   | Open the homepage multiple times on different browsers   | Homepage loads without lags | // | Works as expected |
 | TC02   | The Job search functions properly  | Enter a keyword in the search bar, check result | The search bar loads the job searched for and shows a message if the position is not found | Doesn't function properly as nothing loads when a position is input | Need to work on implementing the write code to make the search bar active |  
 | TC03   | Careers on the header takes user to the Careers Page   | Click the Careers on the header | Takes the user to the home page | // | Works as expected |
 | TC04   | About on the header takes user to the About Us Page   | Click About on the header | Takes the user to the About page | // | Works as expected |
-| TC05   | Check 'Apply Now' button functionality   | Click 'Apply Now'| Loads the Application form |
-| TC06   | Test Application form Validation   | Submit the form with missing fields
-| TC07   | Test Navigation bar links   | Click eack link within the navbar
+| TC05   | Check 'Apply Now' button functionality   | Click 'Apply Now'| Loads the Application form | // | Works as expected|
+| TC06   | Test Application form Validation   | Submit the form with missing fields | The form should display messages telling the user to fill in the missing columns | The validation messages shows telling the user to fill out the blanks | 
+| TC07   | Test Navigation bar links   | Click eack link within the navbar | Take the user to the desired page |
 | TC08   | Test website performance   | Use performance testing aids like Lighthouse to check speed scores
 | TC09   | Ensure website responsiveness   | Resize the browser to mobile view
-| TC010   |  Validation message appears after form submission  |
+| TC010   |  Validation message appears after form submission  | A message stating the user has successfully submitted the form | A successful submission message pops up after the form is filled | 
 | TC011 |  |  |
 
 ### 3.3 BUG TRACKING LOG
