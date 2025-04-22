@@ -91,7 +91,7 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 | TC07   | Test Navigation bar links   | Click eack link within the navbar | Take the user to the desired page |
 | TC08   | Test website performance   | Use performance testing aids like Lighthouse to check speed scores
 | TC09   | Ensure website responsiveness   | Resize the browser to mobile view
-| TC010   |  Validation message appears after form submission  | A message stating the user has successfully submitted the form | A successful submission message pops up after the form is filled | 
+| TC010   |  Validation message appears after form submission  | A message stating the user has successfully submitted the form | A successful submission message pops up after the form is filled | Nothing shows after the form is submitted | The code will be looked at to see any errors made that stops the message from  |
 | TC011 |  |  |
 
 ### 3.3 BUG TRACKING LOG
@@ -100,8 +100,8 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 |02/04/2025| OO1 | Favour A.C|  |  |
 |02/04/2025| 002 | Favour A.C|||
 |03/04/2025| 003 | Favour A.C|
-|03/04/2025| OO4 | Favour A.C|  |  |
-|03/04/2025| OO5 | Favour A.C|  |  |
+|05/04/2025| OO4 | Favour A.C|  |  |
+|10/04/2025| OO5 | Favour A.C|  |  |
 ### 3.4 USABILITY TESTING FEEDBACK
 
 ## 4. Evaluation
