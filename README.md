@@ -27,10 +27,12 @@ By addressing these requirements it ensures that the Hot Beans Web Careers secti
 The current design for the Hot Beans Web website has different foundational elements in place that were put in the direction of meeting the clients requirements
 
 Colour Theory
+
 The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
 
 
 The Golden Ratio Application
+
 The creation of the major layout divisions where done to follow the golden ratio standard:
 .The height to hero sections ratio(1.1.618)
 .The cards dimensions (e.g 300px * 485px)
