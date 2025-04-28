@@ -17,10 +17,17 @@ Hot Beans want their website to attract skilled prospective web developers who h
 5. Links to web development courses: A "Web Development Resources"section that will list links to high-quality online learning platforms like FreeCodeCamp, Udemy, etc. The resources will help aspiring developers continue learning and enhance their qualifications.
 6. Furthermore, making use of modern UI/UX design principles, including a clean and responsive layout, consistent typography and an attractive colour scheme will be implemented to make sure the websites design is optimised for readability, accessibility, and ease of navigation.
  
-By addressing these requirements it ensures that the Hot Beans Web Careers section will offer a seamless and informative experience for the potential candidates while helping the company to attract top tier talent.
+By addressing these requirements, it ensures that the Hot Beans Web Careers section will offer a seamless and informative experience for the potential candidates while helping the company to attract top tier talent.
 
 
 ### 1.4 COLOUR SCHEME AND TYPOGRAPHY
+
+The colour scheme for the development of the website was chosen with the help of the Adobe colour wheel which looked at the logo, highlighting the best choice colours that would go with colours on the company's logo. These colours include:
+
+Typography
+As for the typography, the decision on the font to be used  
+
+
 
 ## 2. Development Justification
 ### 2.1 Justification of Design Decisions
@@ -49,6 +56,8 @@ Implementing a mega menu for the careers section
 The sticky header for easy access
 **Adding a breadcrumb navigation for multi-level pages**
 An active state indicator
+
+The Existing Trainees: Additionally, looking at the area in which the trainees thoughts or messages was kept in the previous version of the website looked very compressed, as the trainees had a lot to say and it was all compiled together. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visual.
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 Time Management
