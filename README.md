@@ -10,7 +10,8 @@ Low fidelity Wireframe
 ### 1.2 USER FLOW DIAGRAM
 The Data Flow Diagram for the user will show the visual processes of the users data through the website, highlighting the inputs, outputs and routes between them.
 
-DFD Level 0 
+DFD Level 0
+
 ![image](https://github.com/user-attachments/assets/6a8557b5-775e-49f9-980e-72a53463d650)
 
 
