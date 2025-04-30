@@ -61,6 +61,7 @@ The Existing Trainees: Additionally, looking at the area in which the trainees t
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 Time Management
+
 I implemented a 8-week agile plan to fully create the website to meet the requirements:
 
 Week 1-2: General Research, Design Documentation and Wireframing
