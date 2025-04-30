@@ -8,6 +8,12 @@ Low fidelity Wireframe
 ![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
 
 ### 1.2 USER FLOW DIAGRAM
+The Data Flow Diagram for the user will show the visual processes of the users data through the website, highlighting the inputs, outputs and routes between them.
+
+DFD Level 0 
+![image](https://github.com/user-attachments/assets/6a8557b5-775e-49f9-980e-72a53463d650)
+
+
 ### 1.3 Client REQUIREMENT ANALYSIS
 Hot Beans want their website to attract skilled prospective web developers who have finished their training courses and qualifications that are now looking for jobs as web developers, to recruit them. The main goal is to create a compelling careers section that will inform the prospective candidates about the company in general, showcase the available job opportunities and an online application form that is simple to complete. The key requirements and how they will be addressed include:
 1. Promotion of the company to prospective web developers: To address this the creation of a well-structured "About Hot Beans" web section that will highlight the mission statement of the company as well as its values, work culture and all-round reputation in the industry. This section will build the company's credibility and excitement for potential candidates.
