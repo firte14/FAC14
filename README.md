@@ -15,6 +15,19 @@ DFD Level 0
 ![image](https://github.com/user-attachments/assets/6a8557b5-775e-49f9-980e-72a53463d650)
 
 
+DFD Level 1
+This shows more detail on what happens when the users interact with the Hot Beans Website
+![image](https://github.com/user-attachments/assets/5da9dbe0-999e-494d-8c0a-f2e27a0a2a83)
+The users(Aspiring applicants) can:
+. Fill out applications which is saved to the database
+. Search job listings -  this pulls the data from the database
+. Browse courses - pulls from the database
+
+The Admins can:
+. Update the courses on the page
+. Manage applications
+. Add/remove job listings
+
 ### 1.3 Client REQUIREMENT ANALYSIS
 Hot Beans want their website to attract skilled prospective web developers who have finished their training courses and qualifications that are now looking for jobs as web developers, to recruit them. The main goal is to create a compelling careers section that will inform the prospective candidates about the company in general, showcase the available job opportunities and an online application form that is simple to complete. The key requirements and how they will be addressed include:
 1. Promotion of the company to prospective web developers: To address this the creation of a well-structured "About Hot Beans" web section that will highlight the mission statement of the company as well as its values, work culture and all-round reputation in the industry. This section will build the company's credibility and excitement for potential candidates.
