@@ -77,7 +77,7 @@ The sticky header for easy access
 **Adding a breadcrumb navigation for multi-level pages**
 An active state indicator
 
-The Existing Trainees: Additionally, looking at the area in which the trainees thoughts or messages was kept in the previous version of the website looked very compressed, as the trainees had a lot to say and it was all compiled together. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visual.
+The Existing Trainees: Additionally, looking at the area in which the trainees thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visual.
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 Time Management
