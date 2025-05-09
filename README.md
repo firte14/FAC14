@@ -55,7 +55,7 @@ As for the typography, the decision on the font to be used was put into deep con
 ### 2.1 Justification of Design Decisions
 The current design for the Hot Beans Web website has different foundational elements in place that were put in the direction of meeting the clients requirements
 
-####Colour Theory
+#### Colour Theory
 
 In regards to the colour theory, it was kept in line with the original logo. The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
 
