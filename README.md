@@ -92,7 +92,7 @@ Week 3-4: Development of the Website implementing the visual designs
 
 Week 5: Interactive elements development
 
-Week 6-7:Testing and optimisation 
+Week 6-7: Testing and optimisation 
 
 Week 8: Evaluation of the designs with the final product review
 
@@ -110,13 +110,13 @@ The test plan will include the strategy that'll be used for testing the Hot Bean
 
 #### The Testing Approach
 The testing will be conducted in different stages
-Unit Testing: This will involve testing the individual components (e.g. navigation, buttons, forms)
+I) Unit Testing: This will involve testing the individual components (e.g. navigation, buttons, forms)
 separately
-Integration Testing: This will be implemented to validate the interaction between components
-Functional Testing: To ensure all functionalities work as expected(e.g, Job search, Job submission)
-UI/UX Testing: Checking the Bootstrap-based design for its responsiveness and consistency to actions 
-Performance Testing: Evaluating the effectiveness of the website's load times and responsiveness
-User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability
+II) Integration Testing: This will be implemented to validate the interaction between components
+III) Functional Testing: To ensure all functionalities work as expected(e.g, Job search, Job submission)
+IV) UI/UX Testing: Checking the Bootstrap-based design for its responsiveness and consistency to actions 
+V) Performance Testing: Evaluating the effectiveness of the website's load times and responsiveness
+VI) User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability
 
 ### 3.2 Test Cases and Results
 | Test Case ID | Scenario | Description | Expected Outcome | Actual Outcome | Comments |
