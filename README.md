@@ -18,6 +18,7 @@ DFD Level 0
 DFD Level 1
 This shows more detail on what happens when the users interact with the Hot Beans Website
 ![image](https://github.com/user-attachments/assets/5da9dbe0-999e-494d-8c0a-f2e27a0a2a83)
+
 The users(Aspiring applicants) can:
 . Fill out applications which is saved to the database
 . Search job listings -  this pulls the data from the database
