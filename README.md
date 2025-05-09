@@ -46,7 +46,7 @@ By addressing these requirements, it ensures that the Hot Beans Web Careers sect
 The colour scheme for the development of the website was chosen with the help of the Adobe colour wheel which looked at the logo, highlighting the best choice colours that would go with colours on the company's logo. These colours include: ![image](https://github.com/user-attachments/assets/dbd31f25-0938-4a62-9e43-7bc469fbcbb8)
 Which most of the colour themes in the website will be based of off
 
-Typography
+#### Typography
 As for the typography, the decision on the font to be used was put into deep consideration as I looked at providing the website with a font type that will suit it in every aspect. I searched for the best font types to use for a website.
 
 
@@ -55,11 +55,12 @@ As for the typography, the decision on the font to be used was put into deep con
 ### 2.1 Justification of Design Decisions
 The current design for the Hot Beans Web website has different foundational elements in place that were put in the direction of meeting the clients requirements
 
-Colour Theory
+####Colour Theory
+
 In regards to the colour theory, it was kept in line with the original logo. The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
 
 
-The Golden Ratio Application
+#### The Golden Ratio Application
 
 The creation of the major layout divisions where done to follow the golden ratio standard:
 .The height to hero sections ratio(1.1.618)
@@ -80,7 +81,7 @@ An active state indicator
 The Existing Trainees: Additionally, looking at the area in which the trainees thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visual.
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
-Time Management
+#### Time Management
 
 I implemented a 8-week agile plan to fully create the website to meet the requirements:
 
@@ -106,7 +107,7 @@ Time was also allocated for any unexpected issues or hindrance that might occur 
 ### 3.1 Test Plans
 The test plan will include the strategy that'll be used for testing the Hot Beans careers website to ensure that it meets the functional, performance and usability requirements. The website is built with the use of HTML, CSS, and Bootstrap for the styling and structure with JavaScript. Various testing methods will be implemented to thoroughly test the website, these will include User Acceptance Testing(UAT), Manual testing and Automated testing procedures.
 
-The Testing Approach
+#### The Testing Approach
 The testing will be conducted in different stages
 Unit Testing: This will involve testing the individual components (e.g. navigation, buttons, forms)
 separately
