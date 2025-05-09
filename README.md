@@ -79,7 +79,7 @@ The sticky header for easy access
 **Adding a breadcrumb navigation for multi-level pages**
 An active state indicator
 
-The Existing Trainees: Additionally, looking at the area in which the trainees thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visual.
+The Existing Trainees: Additionally, looking at the area in which the trainees' thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visuals.
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 #### Time Management
@@ -96,7 +96,7 @@ Week 6-7: Testing and optimisation
 
 Week 8: Evaluation of the designs with the final product review
 
-Time was also allocated for any unexpected issues or hindrance that might occur during the development of the project
+Time was also allocated for any unexpected issues or hindrances that might occur during the development of the project
 
 
 
@@ -110,13 +110,13 @@ The test plan will include the strategy that'll be used for testing the Hot Bean
 
 #### The Testing Approach
 The testing will be conducted in different stages
-I) Unit Testing: This will involve testing the individual components (e.g. navigation, buttons, forms)
+ Unit Testing: This will involve testing the individual components (e.g. navigation, buttons, forms)
 separately
-II) Integration Testing: This will be implemented to validate the interaction between components
-III) Functional Testing: To ensure all functionalities work as expected(e.g, Job search, Job submission)
-IV) UI/UX Testing: Checking the Bootstrap-based design for its responsiveness and consistency to actions 
-V) Performance Testing: Evaluating the effectiveness of the website's load times and responsiveness
-VI) User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability
+Integration Testing: This will be implemented to validate the interaction between components
+Functional Testing: To ensure all functionalities work as expected(e.g, Job search, Job submission)
+UI/UX Testing: Checking the Bootstrap-based design for its responsiveness and consistency to actions 
+Performance Testing: Evaluating the effectiveness of the website's load times and responsiveness
+User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability
 
 ### 3.2 Test Cases and Results
 | Test Case ID | Scenario | Description | Expected Outcome | Actual Outcome | Comments |
