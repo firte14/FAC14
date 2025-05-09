@@ -42,10 +42,11 @@ By addressing these requirements, it ensures that the Hot Beans Web Careers sect
 
 ### 1.4 COLOUR SCHEME AND TYPOGRAPHY
 
-The colour scheme for the development of the website was chosen with the help of the Adobe colour wheel which looked at the logo, highlighting the best choice colours that would go with colours on the company's logo. These colours include:
+The colour scheme for the development of the website was chosen with the help of the Adobe colour wheel which looked at the logo, highlighting the best choice colours that would go with colours on the company's logo. These colours include: ![image](https://github.com/user-attachments/assets/dbd31f25-0938-4a62-9e43-7bc469fbcbb8)
+Which most of the colour themes in the website will be based of off
 
 Typography
-As for the typography, the decision on the font to be used  
+As for the typography, the decision on the font to be used was put into deep consideration as I looked at providing the website with a font type that will suit it in every aspect. I searched for the best font types to use for a website.
 
 
 
@@ -54,21 +55,19 @@ As for the typography, the decision on the font to be used
 The current design for the Hot Beans Web website has different foundational elements in place that were put in the direction of meeting the clients requirements
 
 Colour Theory
-
-The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
+In regards to the colour theory, it was kept in line with the original logo. The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
 
 
 The Golden Ratio Application
 
 The creation of the major layout divisions where done to follow the golden ratio standard:
 .The height to hero sections ratio(1.1.618)
-.The cards dimensions (e.g 300px * 485px)
+. The card's dimensions (e.g 300px * 485px)
 .Typography scale (16px, 26px, 42px, 68px)
-.The image to text proportions in the team profiles
-This was done to create natural visual harmony across the website which makes the content more appealing and easier to process
+.The image-to-text proportions in the team profiles
+This was done to create natural visual harmony across the website, which makes the content more appealing and easier to process
 
 ### 2.2 Optimisation
-
 
 Structural Improvements
 Navigation:
