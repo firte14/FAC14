@@ -5,6 +5,7 @@
 ## 1. Design Documentation
 ### 1.1 WIREFRAME
 Low fidelity Wireframe
+
 ![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
 
 ### 1.2 USER FLOW DIAGRAM
