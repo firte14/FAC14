@@ -136,12 +136,14 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 ### 3.3 BUG TRACKING LOG
 |Date | Test ID| Tester | Outcome | Notes |
 |-------- |--------- |-------- |--------|-------|
-|02/04/2025| OO1 | Favour A.C|  |  |
+|02/04/2025| OO1 | Favour A.C| Failed |Job search not returning the expected results  |
 |02/04/2025| 002 | Favour A.C|||
-|03/04/2025| 003 | Favour A.C|
+|03/04/2025| 003 | Favour A.C| Passed | Homepage loads correctly 
 |05/04/2025| OO4 | Favour A.C|  |  |
 |10/04/2025| OO5 | Favour A.C|  |  |
+
 ### 3.4 USABILITY TESTING FEEDBACK
+During the usability testing phase, different issues were found and logged which include the job search not loading, a validation message not appearing after the successful submission of the application form etc. These issues were looked at and worked on to enhance the efficiency of the website and ensure a great product is given to clients to maintain/increase the user engagement on the site. As the testing performed was iterative throughout the development to fix any issue before the deployment of the website, with the goal of ensuring a seamless, responsive and functional experience for the users
 
 ## 4. Evaluation
 ### 4.1 FINAL EVALUATION
