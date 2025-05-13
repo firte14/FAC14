@@ -4,9 +4,15 @@
 # Content
 ## 1. Design Documentation
 ### 1.1 WIREFRAME
+To create the website, I had to first define the main requirements to create a mockup wireframe of different ways I would like the Hot Beans to look. Below are some of the wireframe ideas I came up with to aid in creating the website.
+
 Low fidelity Wireframe
 
 ![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
+
+Wireframe
+![image](https://github.com/user-attachments/assets/101864e3-af4e-4596-aa5c-4ca294a5cd7f)
+
 
 ### 1.2 USER FLOW DIAGRAM
 The Data Flow Diagram for the user will show the visual processes of the users data through the website, highlighting the inputs, outputs and routes between them.
