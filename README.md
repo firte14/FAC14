@@ -10,7 +10,8 @@ Low fidelity Wireframe
 
 ![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
 
-Wireframe
+Wireframe 2
+
 ![image](https://github.com/user-attachments/assets/101864e3-af4e-4596-aa5c-4ca294a5cd7f)
 
 
