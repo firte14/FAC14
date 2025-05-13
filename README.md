@@ -11,10 +11,10 @@ Low fidelity Wireframe
 ![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
 
 
-Wireframe 2(Careers Page)
+Wireframe 2(Careers Page)<br/>
 ![image](https://github.com/user-attachments/assets/6bc075a8-e1ca-4d1b-98fe-6735a166da99)
 
-Based on the review gotten from this page, a search bar would be implemented on the page to aid in quick and easy accessibility of the user to different job roles available
+A search bar would be implemented on the page to aid in quick and easy accessibility of the user to different job roles available
 
 
 
@@ -23,7 +23,7 @@ Based on the review gotten from this page, a search bar would be implemented on 
 
 
 
-Wireframe 2(Updated)
+Wireframe 2(Updated)<br/>
 
 ![image](https://github.com/user-attachments/assets/101864e3-af4e-4596-aa5c-4ca294a5cd7f)
 
@@ -45,10 +45,10 @@ The users(Aspiring applicants) can:<br/>
 . Search job listings -  this pulls the data from the database<br/>
 . Browse courses - pulls from the database<br/>
 
-The Admins can:
-. Update the courses on the page
-. Manage applications
-. Add/remove job listings
+The Admins can:<br/>
+. Update the courses on the page<br/>
+. Manage applications<br/>
+. Add/remove job listings<br/>
 
 ### 1.3 Client REQUIREMENT ANALYSIS
 Hot Beans want their website to attract skilled prospective web developers who have finished their training courses and qualifications that are now looking for jobs as web developers, to recruit them. The main goal is to create a compelling careers section that will inform the prospective candidates about the company in general, showcase the available job opportunities and an online application form that is simple to complete. The key requirements and how they will be addressed include:
@@ -77,18 +77,17 @@ As for the typography, the decision on the font to be used was put into deep con
 The current design for the Hot Beans Web website has different foundational elements in place that were put in the direction of meeting the clients requirements
 
 #### Colour Theory
-
 In regards to the colour theory, it was kept in line with the original logo. The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
 
 
 #### The Golden Ratio Application
 
 The creation of the major layout divisions where done to follow the golden ratio standard:
-.The height to hero sections ratio(1.1.618)
-. The card's dimensions (e.g 300px * 485px)
-.Typography scale (16px, 26px, 42px, 68px)
-.The image-to-text proportions in the team profiles
-This was done to create natural visual harmony across the website, which makes the content more appealing and easier to process
+.The height to hero sections ratio(1.1.618)<br/>
+. The card's dimensions (e.g 300px * 485px)<br/>
+.Typography scale (16px, 26px, 42px, 68px)<br/>
+.The image-to-text proportions in the team profiles<br/>
+This was done to create natural visual harmony across the website, which makes the content more appealing and easier to process<br/>
 
 ### 2.2 Optimisation
 
@@ -99,26 +98,18 @@ The sticky header for easy access
 **Adding a breadcrumb navigation for multi-level pages**
 An active state indicator
 
-The Existing Trainees: Additionally, looking at the area in which the trainees' thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visuals.
-
-Search Bar: Based on the reviews, I also added a search bar to aid in the website's functionality, to enable the user easy access to available job roles
+The Existing Trainees: Additionally, looking at the area in which the trainees' thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visuals.<br/>
+Search Bar: I also added a search bar to aid in the website's functionality, to enable the user easy access to available job roles<br/>
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 #### Time Management
-
-I implemented a 8-week agile plan to fully create the website to meet the requirements:
-
-Week 1-2: General Research, Design Documentation and Wireframing
-
-Week 3-4: Development of the Website implementing the visual designs
-
-Week 5: Interactive elements development
-
-Week 6-7: Testing and optimisation 
-
-Week 8: Evaluation of the designs with the final product review
-
-Time was also allocated for any unexpected issues or hindrances that might occur during the development of the project
+I implemented a 8-week agile plan to fully create the website to meet the requirements:<br/>
+Week 1-2: General Research, Design Documentation and Wireframing<br/>
+Week 3-4: Development of the Website implementing the visual designs<br/>
+Week 5: Interactive elements development<br/>
+Week 6-7: Testing and <br/>
+Week 8: Evaluation of the designs with the final product review<br/>
+Time was also allocated for any unexpected issues or hindrances that might occur during the development of the project<br/>
 
 
 
@@ -131,14 +122,14 @@ Time was also allocated for any unexpected issues or hindrances that might occur
 The test plan will include the strategy that'll be used for testing the Hot Beans careers website to ensure that it meets the functional, performance and usability requirements. The website is built with the use of HTML, CSS, and Bootstrap for the styling and structure with JavaScript. Various testing methods will be implemented to thoroughly test the website, these will include User Acceptance Testing(UAT), Manual testing and Automated testing procedures.
 
 #### The Testing Approach
-The testing will be conducted in different stages
- Unit Testing: This will involve testing the individual components (e.g. navigation, buttons, forms)
-separately
-Integration Testing: This will be implemented to validate the interaction between components
-Functional Testing: To ensure all functionalities work as expected(e.g, Job search, Job submission)
-UI/UX Testing: Checking the Bootstrap-based design for its responsiveness and consistency to actions 
-Performance Testing: Evaluating the effectiveness of the website's load times and responsiveness
-User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability
+The testing will be conducted in different stages<br/>
+Unit Testing: This will involve testing the individual components (e.g. navigation, buttons, forms)
+separately<br/>
+Integration Testing: This will be implemented to validate the interaction between components<br/>
+Functional Testing: To ensure all functionalities work as expected(e.g, Job search, Job submission)<br/>
+UI/UX Testing: Checking the Bootstrap-based design for its responsiveness and consistency to actions<br/>
+Performance Testing: Evaluating the effectiveness of the website's load times and responsiveness<br/>
+User Acceptance Testing: Allowing end-users or customers to test the website to make sure it meets their requirements, verifying its usability<br/>
 
 ### 3.2 Test Cases and Results
 | Test Case ID | Scenario | Description | Expected Outcome | Actual Outcome | Comments |
