@@ -10,7 +10,20 @@ Low fidelity Wireframe
 
 ![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
 
-Wireframe 2
+
+Wireframe 2(Careers Page)
+![image](https://github.com/user-attachments/assets/6bc075a8-e1ca-4d1b-98fe-6735a166da99)
+
+Based on the review gotten from this page, a search bar would be implemented on the page to aid in quick and easy accessibility of the user to different job roles available
+
+
+
+
+
+
+
+
+Wireframe 2(Updated)
 
 ![image](https://github.com/user-attachments/assets/101864e3-af4e-4596-aa5c-4ca294a5cd7f)
 
@@ -88,6 +101,8 @@ An active state indicator
 
 The Existing Trainees: Additionally, looking at the area in which the trainees' thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visuals.
 
+Search Bar: Based on the reviews, I also added a search bar to aid in the website's functionality, to enable the user easy access to available job roles
+
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 #### Time Management
 
@@ -129,7 +144,7 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 | Test Case ID | Scenario | Description | Expected Outcome | Actual Outcome | Comments |
 |----------|----------|----------|----------|----------|----------|
 | TC01   | Home page loads correctly   | Open the homepage multiple times on different browsers   | Homepage loads without lags | // | Works as expected |
-| TC02   | The Job search functions properly  | Enter a keyword in the search bar, check result | The search bar loads the job searched for and shows a message if the position is not found | Doesn't function properly as nothing loads when a position is input | Need to work on implementing the write code to make the search bar active |  
+| TC02   | The Job search functions properly  | Enter a keyword in the search bar, check result | The search bar loads the job searched for and shows a message if the position is not found | Doesn't function properly as nothing loads when a position is input based on | Need to work on implementing the write code to make the search bar active |  
 | TC03   | Careers on the header takes user to the Careers Page   | Click the Careers on the header | Takes the user to the home page | // | Works as expected |
 | TC04   | About on the header takes user to the About Us Page   | Click About on the header | Takes the user to the About page | // | Works as expected |
 | TC05   | Check 'Apply Now' button functionality   | Click 'Apply Now'| Loads the Application form | // | Works as expected|
