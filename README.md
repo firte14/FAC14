@@ -107,7 +107,7 @@ I implemented a 8-week agile plan to fully create the website to meet the requir
 Week 1-2: General Research, Design Documentation and Wireframing<br/>
 Week 3-4: Development of the Website implementing the visual designs<br/>
 Week 5: Interactive elements development<br/>
-Week 6-7: Testing and <br/>
+Week 6-7: Testing and Optimisations <br/>
 Week 8: Evaluation of the designs with the final product review<br/>
 Time was also allocated for any unexpected issues or hindrances that might occur during the development of the project<br/>
 
