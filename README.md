@@ -155,9 +155,24 @@ Week 8: Evaluation of the designs with the final product review<br/>
 Time was also allocated for any unexpected issues or hindrances that might occur during the development of the project<br/>
 
 
-
-
 ### 2.4 Evaluation of Design
+The existing Hot Beans Web website has various foundational elements put in place but it lacks overall cohesive design principles and optimisation for it to completely meet the its target audience of prospective developer employees. The following will be an evaluation of the websites current state showing its strengths and weaknesses:
+
+#### Strengths
+- The basic structure of the site with all its required sections, which include: the company profile, trainee profiles, job specs, application form, and course links
+- It incorporates some visual hierarchy established through the headings
+- Uses functional navigation between the websites pages
+- Responsive grid layout for services section
+
+#### Weaknesses:
+- The inconsistent styling across most of the pages
+- Poor colour contrast in some of the areas
+- Lack of visual appeal and modern design elements
+- No clear information architecture
+- The minimal interactivity elements beyond the basic hover states
+- No considerations for mobile responsiveness
+- Performance issues with image optimization
+- Inconsistent typography and spacing
 ### 2.5 Review of Final Product
 
 ## 3. Testing Documentation
