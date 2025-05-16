@@ -68,16 +68,16 @@ The colour scheme for the development of the website was chosen with the help of
 Which most of the colour themes in the website will be based of off
 
 #### Typography
-As for the typography, the decision on the font to be used was put into deep consideration as I looked at providing the website with a font type that will suit it in every aspect. I searched for the best font types to use for a website.
+As for the typography, the decision on the font to be used was put into deep consideration as I looked at providing the website with a font type that will suit it in every aspect. I searched for the best font types to use for a website and chose the one that would best suite the website
 
-
+####
 
 ## 2. Development Justification
 ### 2.1 Justification of Design Decisions
 The current design for the Hot Beans Web website has different foundational elements in place that were put in the direction of meeting the clients requirements
 
 #### Colour Theory
-In regards to the colour theory, it was kept in line with the original logo. The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability
+In regards to the colour theory, it was kept in line with the original logo. The maintained green colour scheme represents growth, stability, and nature aligning with the company's "Hot Beans" branding while conveying reliability. The added blue accents introduce trust and professionalism, which is important for recruiting technical talent. The warm neutrals create approachablilty, whilst balancing the technical nature of the content
 
 
 #### The Golden Ratio Application
@@ -89,14 +89,57 @@ The creation of the major layout divisions where done to follow the golden ratio
 .The image-to-text proportions in the team profiles<br/>
 This was done to create natural visual harmony across the website, which makes the content more appealing and easier to process<br/>
 
+#### White Space Management
+There were strategic white space implementations put in place:
+- The increased line height(1.6) improves readabiility
+
 ### 2.2 Optimisation
 
-Structural Improvements
-Navigation:
-Implementing a mega menu for the careers section
+#### Visual Design improvements
+##### Colour Scheme
+Maintained the current green as the primary colour but added some complementary colours
+Created a 60-30-10 ratio: 60% primary green, 30% neutral whites/greys, 10% accent colours
+Added a secondary palette of blues and warm neutrals
+
+##### Typography
+In regards to the optimised typography:
+- Implemented a typographic scale using the golden ratio(1:1.618)
+- Created defined fonts for different aspects of text:
+- - Primary font: 'Poppins' (sans-serif) for headings
+- - Secondary font: 'Open Sans' for body text
+- Consistent line-height of 1.6 for optimal readability
+
+##### White Space
+- Increased padding and margins using the 8px baseline grid
+- Section spacing follows Fibonacci sequence (16px, 24px, 40px, 64px)
+- Improved paragraph spacing for better readability
+
+#### Structural Improvements
+##### Navigation:
+Implemented a mega menu for the careers section
 The sticky header for easy access
 **Adding a breadcrumb navigation for multi-level pages**
 An active state indicator
+
+##### Layout
+- Used flexbox for simpler components
+- Made a card-based design for the team members and services
+- Implemented the CSS Grid for some complex sections
+
+
+#### Interactive Elements
+For the interactive aspects of the website, optimisations took place in different areas to enhance the sites interactivity with the users:
+##### Micro-interactions:
+Implemented smooth hover transition(0.3 ease)
+Button animations(scale, change of colour when hovered around)
+Loading animations for the career listings
+
+#### Performance Optimisation
+- Critical CSS inlined
+- Implemented lazy loading
+- Minified CSS and JavaScript
+
+
 
 The Existing Trainees: Additionally, looking at the area in which the trainees' thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visuals.<br/>
 Search Bar: I also added a search bar to aid in the website's functionality, to enable the user easy access to available job roles<br/>
