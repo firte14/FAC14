@@ -105,8 +105,8 @@ Added a secondary palette of blues and warm neutrals
 In regards to the optimised typography:
 - Implemented a typographic scale using the golden ratio(1:1.618)
 - Created defined fonts for different aspects of text:
- - Primary font: 'Poppins' (sans-serif) for headings
- - Secondary font: 'Open Sans' for body text
+  - Primary font: 'Poppins' (sans-serif) for headings
+  - Secondary font: 'Open Sans' for body text
 - Consistent line-height of 1.6 for optimal readability
 
 ##### White Space
