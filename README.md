@@ -82,7 +82,7 @@ In regards to the colour theory, it was kept in line with the original logo. The
 
 #### The Golden Ratio Application
 
-The creation of the major layout divisions where done to follow the golden ratio standard:
+The creation of the major layout divisions where done to follow the golden ratio standard:<br/>
 .The height to hero sections ratio(1.1.618)<br/>
 . The card's dimensions (e.g 300px * 485px)<br/>
 .Typography scale (16px, 26px, 42px, 68px)<br/>
