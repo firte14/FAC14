@@ -218,5 +218,10 @@ During the usability testing phase, different issues were found and logged which
 
 ## 4. Evaluation
 ### 4.1 FINAL EVALUATION
+The Hot Beans Web website was designed to attract new prospective web developers by showcasing the company in it's full glory, with its culture, job opportunities and training resources. This evaluation assesses the overall effectiveness of the final product in meeting the clients requirements, its appeal to the target audience and the websites overall success compared to some alternative solutions. Furthermore, The websites development reflects on my performance, time management, and decision-making throughout the course of the project. 
+
 ### 4.2 POTENTIAL FUTURE IMPROVEMENTS
+Backend Integration
+Dark Mode Implementation
+AI Chatbot
 ### 4.3 FEEDBACK RESPONSES
