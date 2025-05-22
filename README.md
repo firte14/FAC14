@@ -17,6 +17,7 @@ Wireframe 2(Careers Page)<br/>
 ![image](https://github.com/user-attachments/assets/6bc075a8-e1ca-4d1b-98fe-6735a166da99)
 
 <br/>
+
 ![image](https://github.com/user-attachments/assets/550c39db-a3a2-4664-98e7-8a0c47726469)
 
 
