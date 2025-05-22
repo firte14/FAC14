@@ -200,7 +200,7 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 | TC06   | Test Application form Validation   | Submit the form with missing fields | The form should display messages telling the user to fill in the missing columns | The validation messages shows telling the user to fill out the blanks | 
 | TC07   | Test Navigation bar links   | Click eack link within the navbar | Take the user to the desired page |
 | TC08   | Test website performance   | Use performance testing aids like Lighthouse to check speed scores
-| TC09   | Ensure website responsiveness   | Resize the browser to mobile view
+| TC09   | Ensure website responsiveness   | Resize the browser to mobile view| Website still responsive to the devices layout(prompts a hamburger menu)|Works as Expected|
 | TC010   |  Validation message appears after form submission  | A message stating the user has successfully submitted the form | A successful submission message pops up after the form is filled | Nothing shows after the form is submitted | The code will be looked at to see any errors made that stops the message from  |
 
 
@@ -208,10 +208,10 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 |Date | Test ID| Tester | Outcome | Notes |
 |-------- |--------- |-------- |--------|-------|
 |02/04/2025| OO1 | Favour A.C| Failed |Job search not returning the expected results  |
-|02/04/2025| 002 | Favour A.C|Passed|The Search Bar is now fully functional|
+|02/04/2025| 002 | Favour A.C| Passed |The Search Bar is now fully functional|
 |03/04/2025| 003 | Favour A.C| Passed | Homepage loads correctly |
-|05/04/2025| OO4 | Favour A.C|  |  |
-|10/04/2025| OO5 | Favour A.C|  |  |
+|05/04/2025| OO4 | Favour A.C| Failed | Success message after form submission doesn't pop up (New HBW) |
+|10/04/2025| OO5 | Favour A.C| Passed | Success message after form submission displays (Hot Beans Web)   |
 
 ### 3.4 USABILITY TESTING FEEDBACK
 During the usability testing phase, different issues were found and logged which include the job search not loading, a validation message not appearing after the successful submission of the application form etc. These issues were looked at and worked on to enhance the efficiency of the website and ensure a great product is given to clients to maintain/increase the user engagement on the site. As the testing performed was iterative throughout the development to fix any issue before the deployment of the website, with the goal of ensuring a seamless, responsive and functional experience for the users
