@@ -146,6 +146,8 @@ Week 3-4: Development of the Website implementing the visual designs<br/>
 Week 5: Interactive elements development<br/>
 Week 6-7: Testing and Optimisations <br/>
 Week 8: Evaluation of the designs with the final product review<br/>
+
+
 Used a Gantt chart to fully manage the allocated time to deliver a great product to the clients. Time was also allocated for any unexpected issues or hindrances that might occur during the development of the project<br/>
 
 
