@@ -251,8 +251,25 @@ Dark Mode Implementation: Implement CSS variables to allow the user to pick thei
 AI Chatbot: An addition of a chatbot to assist the users on FAQs about applications, reducing the admin's workload<br/>
 AI-Assisted Matching: Incorporating machine learning code to suggest optimal positions for the users based on their profile analysis<br/>
 
+
 These potential improvements could really build a solid foundation for Hot Beans to create and even more comprehensive recruitment system.
 
 ### 4.3 FEEDBACK RESPONSES
 
-A google form was created for the users
+A google form was created for the users to provide feedback and answer the questionnaire, to see the different strengths the website has and to get the website's performance from a user point of view.
+
+![image](https://github.com/user-attachments/assets/b8d52af5-f130-4ff3-ac95-71939ac8567b)
+
+![image](https://github.com/user-attachments/assets/a9e22105-8b60-4321-9a9e-d93139d30a89)
+
+![image](https://github.com/user-attachments/assets/7b4a6d2a-70bd-40fa-96bb-803ebdb4391d)
+
+![image](https://github.com/user-attachments/assets/082123b4-e288-4f51-bc61-63132d7b2810)
+
+![image](https://github.com/user-attachments/assets/df6b46c8-cde1-47f9-83ee-f38502be8397)
+
+![image](https://github.com/user-attachments/assets/03d44b9b-a5ea-4503-bb1c-e36e9ddbe68f)
+
+<br/>
+The above images are the chart data for the responses gotten from the questions asked to the users. Looking through them, it can be concluded that the Hot Beans Web website has not only met but exceeded the clients' requirements and goals. It also provides high functionality, performance and a great user experience in all areas, which will be highly beneficial to the clients.
+
