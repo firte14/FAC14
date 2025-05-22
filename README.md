@@ -9,10 +9,22 @@ To create the website, I had to first define the main requirements to create a m
 Low fidelity Wireframe
 
 ![image](https://github.com/user-attachments/assets/15423e49-58c0-45f5-92b8-7e2569100c36)
+![image](https://github.com/user-attachments/assets/2fadc7ad-6595-4c04-8ad3-cf5d10f0f1b3)
 
 
-Wireframe 2(Careers Page)<br/>
+
+Wireframe 2<br/>
 ![image](https://github.com/user-attachments/assets/6bc075a8-e1ca-4d1b-98fe-6735a166da99)
+
+
+(Careers Page)<br/>
+![image](https://github.com/user-attachments/assets/550c39db-a3a2-4664-98e7-8a0c47726469)
+
+
+
+#### Review of the Websites' Design
+![image](https://github.com/user-attachments/assets/e3224707-dd2b-482a-bf6a-849714b5b884)<br/>
+
 
 In line with the feedback received, a search bar would be implemented on the page to aid in the quick and easy accessibility of the user to different job roles available
 
@@ -23,7 +35,7 @@ Wireframe 2(Updated)<br/>
 
 
 ### 1.2 USER FLOW DIAGRAM
-The Data Flow Diagram for the user will show the visual processes of the users data through the website, highlighting the inputs, outputs and routes between them.
+The Data Flow Diagram for the user will show the visual processes of the users' data through the website, highlighting the inputs, outputs and routes between them.
 
 DFD Level 0
 
