@@ -139,10 +139,10 @@ Loading animations for the career listings
 - Implemented lazy loading
 - Minified CSS and JavaScript
 
-
-
+#### Website Areas
 The Existing Trainees: Additionally, looking at the area in which the trainees' thoughts or messages was kept in the previous version of the website looked compressed, as the trainees had a lot to say and it was all compiled together with not much space to look appealing. To optimise it, I created a separate page for the trainees to improve the readability of their messages whilst making the overall presentation of the website better, increasing its appealing visuals.<br/>
 Search Bar: I also added a search bar to aid in the website's functionality, to enable the user easy access to available job roles<br/>
+
 
 ### 2.3 Demonstration of Individual Responsibility & Creativity
 #### Time Management
@@ -152,7 +152,7 @@ Week 3-4: Development of the Website implementing the visual designs<br/>
 Week 5: Interactive elements development<br/>
 Week 6-7: Testing and Optimisations <br/>
 Week 8: Evaluation of the designs with the final product review<br/>
-Time was also allocated for any unexpected issues or hindrances that might occur during the development of the project<br/>
+Used a Gantt chart to fully manage the allocated time to deliver a great product to the clients. Time was also allocated for any unexpected issues or hindrances that might occur during the development of the project<br/>
 
 
 ### 2.4 Evaluation of Design
