@@ -218,10 +218,18 @@ During the usability testing phase, different issues were found and logged which
 
 ## 4. Evaluation
 ### 4.1 FINAL EVALUATION
-The Hot Beans Web website was designed to attract new prospective web developers by showcasing the company in it's full glory, with its culture, job opportunities and training resources. This evaluation assesses the overall effectiveness of the final product in meeting the clients requirements, its appeal to the target audience and the websites overall success compared to some alternative solutions. Furthermore, The websites development reflects on my performance, time management, and decision-making throughout the course of the project. 
+The Hot Beans Web website was designed to attract new prospective web developers by showcasing the company in it's full glory, with its culture, job opportunities and training resources. This evaluation assesses the overall effectiveness of the final product in meeting the clients requirements, its appeal to the target audience and the websites overall success compared to some alternative solutions. Furthermore, the websites development reflects on my performance, time management, and decision-making throughout the course of the project. 
+
+Core Requirements 
+
 
 ### 4.2 POTENTIAL FUTURE IMPROVEMENTS
-Backend Integration
-Dark Mode Implementation
-AI Chatbot
+While the current website implementation fully satisfies all the essential requirements, there are several strategic enhancements that could provide additional value to the website:
+Candidate Dashboard: Developing a personalised page for users to track their applications and skill development plannng
+Dark Mode Implementation: Implement CSS variables to allow the user pick their preferred colour scheme.
+AI Chatbot: An addition of a chatbot to assist the users on FAQs about applications, reducing the admins workload
+AI-Assisted Matching: Incorporating machine learning code to suggest optimal positions for the users based on their prfile analysis
+
+These potential improvements could really build a solid foundation for Hot Beans to create and even more comprehensive recruitment system.
+
 ### 4.3 FEEDBACK RESPONSES
