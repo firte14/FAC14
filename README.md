@@ -14,7 +14,7 @@ Low fidelity Wireframe
 Wireframe 2(Careers Page)<br/>
 ![image](https://github.com/user-attachments/assets/6bc075a8-e1ca-4d1b-98fe-6735a166da99)
 
-A search bar would be implemented on the page to aid in quick and easy accessibility of the user to different job roles available
+In line with the feedback received, a search bar would be implemented on the page to aid in the quick and easy accessibility of the user to different job roles available
 
 
 
