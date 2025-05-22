@@ -13,18 +13,16 @@ Low fidelity Wireframe
 
 
 
-Wireframe 2<br/>
+Wireframe 2(Careers Page)<br/>
 ![image](https://github.com/user-attachments/assets/6bc075a8-e1ca-4d1b-98fe-6735a166da99)
 
-
-(Careers Page)<br/>
+<br/>
 ![image](https://github.com/user-attachments/assets/550c39db-a3a2-4664-98e7-8a0c47726469)
 
 
 
 #### Review of the Websites' Design
 ![image](https://github.com/user-attachments/assets/e3224707-dd2b-482a-bf6a-849714b5b884)<br/>
-
 
 In line with the feedback received, a search bar would be implemented on the page to aid in the quick and easy accessibility of the user to different job roles available
 
