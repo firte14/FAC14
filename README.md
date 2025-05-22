@@ -17,12 +17,6 @@ Wireframe 2(Careers Page)<br/>
 In line with the feedback received, a search bar would be implemented on the page to aid in the quick and easy accessibility of the user to different job roles available
 
 
-
-
-
-
-
-
 Wireframe 2(Updated)<br/>
 
 ![image](https://github.com/user-attachments/assets/101864e3-af4e-4596-aa5c-4ca294a5cd7f)
@@ -173,11 +167,16 @@ The existing Hot Beans Web website has various foundational elements put in plac
 - No considerations for mobile responsiveness
 - Performance issues with image optimization
 - Inconsistent typography and spacing
+
 ### 2.5 Review of Final Product
+The Hot Beans Web's new website successfully meets most of the vocational scenario requirements, creating a professional, functional and user-friendly section to attract prospective web developers. Here's a brief review:
+The comprehensive job specifications(in the careers.html) and course links(courses.html) focus on directly addressing the target audience's needs. The online application form(form.html) is intuitive, as it also contains clear validations, with a success message, enhancing the user's confidence. The consistent design and responsive layout used ensure the accessibility of the site across various devices. It also contains robust JavaScript functionality(filtering, modals and form handling) which showcase the technical competence of the code. However, even with all these strengths, the website still falls short in some aspects which include: its lack of imagery and about page, which could be more engaging with some specific achievements or visuals.
+
+
 
 ## 3. Testing Documentation
 ### 3.1 Test Plans
-The test plan will include the strategy that'll be used for testing the Hot Beans careers website to ensure that it meets the functional, performance and usability requirements. The website is built with the use of HTML, CSS, and Bootstrap for the styling and structure with JavaScript. Various testing methods will be implemented to thoroughly test the website, these will include User Acceptance Testing(UAT), Manual testing and Automated testing procedures.
+The test plan will include the strategy that'll be used for testing the Hot Beans careers website to ensure that it meets the functional, performance and usability requirements. The website is built with the use of HTML, CSS, and Bootstrap for the styling and structure, with JavaScript. Various testing methods will be implemented to thoroughly test the website, these will include User Acceptance Testing(UAT), Manual testing and Automated testing procedures.
 
 #### The Testing Approach
 The testing will be conducted in different stages<br/>
@@ -198,8 +197,8 @@ User Acceptance Testing: Allowing end-users or customers to test the website to 
 | TC04   | About on the header takes user to the About Us Page   | Click About on the header | Takes the user to the About page | // | Works as expected |
 | TC05   | Check 'Apply Now' button functionality   | Click 'Apply Now'| Loads the Application form | // | Works as expected|
 | TC06   | Test Application form Validation   | Submit the form with missing fields | The form should display messages telling the user to fill in the missing columns | The validation messages shows telling the user to fill out the blanks | 
-| TC07   | Test Navigation bar links   | Click eack link within the navbar | Take the user to the desired page |
-| TC08   | Test website performance   | Use performance testing aids like Lighthouse to check speed scores
+| TC07   | Test Navigation bar links   | Click eack link within the navbar | Take the user to the desired page | Works as expected | 
+| TC08   | Test website performance   | Use performance testing aids like Lighthouse to check speed scores | The site runs at exceptional performance and it gains a 90+ lighthouse score | Works as Expected|
 | TC09   | Ensure website responsiveness   | Resize the browser to mobile view| Website still responsive to the devices layout(prompts a hamburger menu)|Works as Expected|
 | TC010   |  Validation message appears after form submission  | A message stating the user has successfully submitted the form | A successful submission message pops up after the form is filled | Nothing shows after the form is submitted | The code will be looked at to see any errors made that stops the message from  |
 
